@@ -8,7 +8,7 @@ function SideNav() {
       id: 1,
       name: 'Candidates',
       icon: Users, // Store the component reference
-      path: '/upload',
+      path: '/candidates',
     },
     {
       id: 2,
